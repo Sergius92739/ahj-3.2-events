@@ -1,3 +1,6 @@
+---
+
+[![Build status](https://ci.appveyor.com/api/projects/status/d7omsxp8y2mypltv/branch/master?svg=true)](https://ci.appveyor.com/project/Sergius92739/ahj-3-2-events/branch/master)
 
 ---
 
